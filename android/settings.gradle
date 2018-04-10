@@ -1,0 +1,3 @@
+rootProject.name = 'ecodriveFinal2'
+
+include ':app'
